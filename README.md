@@ -53,9 +53,8 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mo
 <br>
 <img
   align="left"
-  src="https://magiccopy.xyz/assets/images/hadder.gif"
-  width="300"/>
-  <!-- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
+  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif "
+  width="180"/>
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
