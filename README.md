@@ -29,7 +29,7 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mo
 
 👯 I’m looking to collaborate on Open Source projects like Vuetify, Tailwind, Nuxt, Adonis, Strapi or others
 
-⚡ Fun fact: I want using IT technologies to make World better and easier. And making my own company to do it
+⚡ Fun fact: I want to use IT technologies to make World better and easier. And making my own company to do it
 </p>
 
 <br>
