@@ -36,13 +36,7 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mo
 
 <p>
   
-  ### 👨‍💻 Technologies 👨‍💻
-
-  <img
-  align="left"
-  src="https://magiccopy.xyz/assets/images/hadder.gif"
-  width="300"/>
-  
+  ### 👨‍💻 Technologies 👨‍💻  
 
 - Languages : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=FFFFFF) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
@@ -59,8 +53,9 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mo
 <br>
 <img
   align="left"
-  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+  src="https://magiccopy.xyz/assets/images/hadder.gif"
   width="150"/>
+  <!-- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
