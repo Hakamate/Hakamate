@@ -37,6 +37,7 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mo
 <p>
   
   ### 👨‍💻 Technologies 👨‍💻  
+<br>
 
 - Languages : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=FFFFFF) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
