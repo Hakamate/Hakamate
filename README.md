@@ -11,7 +11,7 @@
 
 ### 🤔 About me 🤔
 As a technophile, I'm currently in IT engineering school at Cesi. I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
-That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mount my own entreprise to deliver IT services and create solution to make world easier.
+That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mount my own entreprise to deliver IT services and create solution to make world easier. I'm currently doing a technological watch thanks to Discord, let's check it and participate : https://discord.gg/hmuX8NX
 </p>
 
 <br>
