@@ -10,8 +10,8 @@
 [![Outlook](https://img.shields.io/badge/-thomas.clement@viacesi.fr-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:thomas.clement@viacesi.fr)
 
 ### 🤔 About me 🤔
-As a technophile, I'm currently in IT engineering school at Cesi. I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
-That why I want te bo a Product Owner / Scrum Master. Besides that, I want to mount my own entreprise to deliver IT services and create solution to make world easier. I'm currently doing a technological watch thanks to Discord, let's check it and participate : https://discord.gg/hmuX8NX
+As a technophile, I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
+That why I want te bo a Product Owner / Scrum Master. Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I'm currently doing a technological watch on Discord, let's check it and participate : https://discord.gg/hmuX8NX
 </p>
 
 <br>
