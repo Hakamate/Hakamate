@@ -44,8 +44,7 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to ma
 - Frontend : ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=FFFFFF) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
 - CSS Framework : ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
 - DB : ![PGSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF) ![MDB](https://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)
-- CMS : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF)
-
+- CMS and NoCode : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF) ![Bubble](https://img.shields.io/badge/-Bubble.io-2906D3?style=flat&logo=bubble&logoColor=FFFFFF) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF)
 <br>
 
 <p>
@@ -80,4 +79,6 @@ That why I want te bo a Product Owner / Scrum Master. Besides that, I want to ma
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=FFFFFF)
 ![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat&logo=rss&logoColor=FFFFFF)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=FFFFFF)
+
 </p>
