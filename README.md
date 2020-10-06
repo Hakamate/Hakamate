@@ -11,7 +11,7 @@
 
 ### 🤔 About me 🤔
 As a technophile, I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
-That why I want te bo a Product Owner / Scrum Master. Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I'm currently doing a technological watch on Discord, let's check it and participate : https://discord.gg/hmuX8NX
+That's why I want te be a Product Owner / Scrum Master. Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I'm currently doing a technological watch on Discord, let's check it and participate : https://discord.gg/hmuX8NX
 </p>
 
 <br>
