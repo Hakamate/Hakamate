@@ -11,7 +11,10 @@
 
 ### 🤔 About me 🤔
 As a technophile, I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
-That's why I want to be a Product Owner / Scrum Master. Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I'm currently doing a technological watch on Discord, let's check it and participate : https://discord.gg/hmuX8NX
+That's why I want to be a Product Owner / Scrum Master (or CEO). Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I like to imagine things and create solutions to answer some needs. 
+
+I'm also training in marketing, because product without branding and visibility can't work, and i love starting from an idea, going through the creation of it, before being able to make it growing.
+
 </p>
 
 <br>
@@ -20,14 +23,14 @@ That's why I want to be a Product Owner / Scrum Master. Besides that, I want to 
 ### 🎯 Goals 🎯
 <p><img
   align="left"
-  src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif"
+  src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"
   width="230"/>
   
 🔭 I’m currently working on tools to make "No-Code" development
 
 🌱 I’m currently learning everything's in Web Development, especially in Javascript Ecosystem
 
-👯 I’m looking to collaborate on Open Source projects like Vuetify, Tailwind, Nuxt, Adonis, Strapi or others
+👯 I’m looking to collaborate on Open Source projects like Vuetify, Tailwind, Nuxt, Adonis, Strapi, Nest or others
 
 ⚡ Fun fact: I want to use IT technologies to make the world better and easier. And making my own company to do it
 </p>
@@ -40,7 +43,7 @@ That's why I want to be a Product Owner / Scrum Master. Besides that, I want to 
 <br>
 
 - Languages : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
-- Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=FFFFFF) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
+- Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=FFFFFF) ![Nest.js](https://img.shields.io/badge/-Nest.js-E32743?style=flat&logo=nestjs&logoColor=FFFFFF) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
 - Frontend : ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=FFFFFF) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
 - CSS Framework : ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
 - DB : ![PGSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF) ![MDB](https://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)
