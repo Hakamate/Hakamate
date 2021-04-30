@@ -45,7 +45,7 @@ I'm also training in marketing, because product without branding and visibility 
 - Languages : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=FFFFFF) ![Nest.js](https://img.shields.io/badge/-Nest.js-E32743?style=flat&logo=nestjs&logoColor=FFFFFF) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=FFFFFF)
 - Frontend : ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=FFFFFF) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
-- CSS Framework : ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
+- CSS Framework : ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=FFFFFF) ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
 - DB : ![PGSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF) ![MDB](https://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)
 - CMS and NoCode : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF) ![Bubble](https://img.shields.io/badge/-Bubble.io-2906D3?style=flat&logo=bubble&logoColor=FFFFFF) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=FFFFFF)
 <br>
@@ -58,6 +58,7 @@ I'm also training in marketing, because product without branding and visibility 
   align="left"
   src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
   width="150"/>
+
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
@@ -82,6 +83,10 @@ I'm also training in marketing, because product without branding and visibility 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=FFFFFF)
 ![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat&logo=rss&logoColor=FFFFFF)
+
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=FFFFFF)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=FFFFFF)
+![Integromat](https://img.shields.io/badge/-Integromat-036EAC?style=flat&logo=integromat&logoColor=FFFFFF)
+![Airtable](https://img.shields.io/badge/-Airtable-FCB400?style=flat&logo=airtable&logoColor=FFFFFF)
 
 </p>
