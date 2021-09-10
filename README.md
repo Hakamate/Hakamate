@@ -11,9 +11,9 @@
 
 ### 🤔 About me 🤔
 As a technophile, I'm passionate about solution development, starting from scratch to customers needs. I also like managing a project and talk with customers to support them.
-That's why I want to be a Product Owner / Scrum Master (or CEO). Besides that, I want to manage my own entreprise to deliver IT services and create solutions to make world easier. I like to imagine things and create solutions to answer some needs. 
+That's why I want to be a Product Manager / Project Manager. Besides that, I want to create tools to make world easier. I like to imagine things and create solutions to answer some needs. 
 
-I'm also training in marketing, because product without branding and visibility can't work, and i love starting from an idea, going through the creation of it, before being able to make it growing.
+I'm also training in marketing, because product without branding and visibility can't work, and I love starting from an idea, going through the creation of it, before being able to make it growing.
 
 </p>
 
@@ -26,13 +26,13 @@ I'm also training in marketing, because product without branding and visibility 
   src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"
   width="230"/>
   
-🔭 I’m currently working on tools to make "No-Code" development
+🔭 I’m currently working on tools to help pepople organize their job search : 
 
 🌱 I’m currently learning everything's in Web Development, especially in Javascript Ecosystem
 
-👯 I’m looking to collaborate on Open Source projects like Vuetify, Tailwind, Nuxt, Adonis, Strapi, Nest or others
+👯 I love No Code and Low code tools to make things quicker and iterate faster
 
-⚡ Fun fact: I want to use IT technologies to make the world better and easier. And making my own company to do it
+⚡ Fun fact: I want to use IT technologies to make the world better and easier. By making my own company to do it
 </p>
 
 <br>
