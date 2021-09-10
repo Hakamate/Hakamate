@@ -1,4 +1,4 @@
-## Hi, I'm Thomas CLEMENT, a Developer 🚀 from France.
+## Hi, I'm Thomas CLEMENT futur Product Manager 🚀
 
 <p>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamate&hide_langs_below=.25">
