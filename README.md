@@ -1,4 +1,4 @@
-## Hi, I'm Thomas CLEMENT futur Product Manager 🚀
+## Hi, I'm Thomas CLEMENT - Entreprener 🚀
 
 <p>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamate&hide_langs_below=.25">
